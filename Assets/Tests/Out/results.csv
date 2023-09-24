@@ -1,0 +1,11 @@
+Dependencia,Area, Perimetro, Potencia de Iluminacao, PTUG
+Sala,9.91, 12.6,100, 200
+Copa,9.45, 12.3,100, 300
+Cozinha,11.43, 13.6,160, 300
+Banheiro,4.14, 0,100, 100
+Hall,1.8, 0,100, 100
+Dormitorio1,11.05, 13.3,160, 200
+Dormitorio2,10.71, 13.1,160, 200
+Area Externa,0, 0,100, 100
+Area de Serviço,5.95, 0,100, 100
+Total, 0, 0,  1080, 0, 0, 0, 0 
